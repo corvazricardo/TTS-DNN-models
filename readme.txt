@@ -1,6 +1,6 @@
 Deep Learning Models for multi-speaker Text-to-speech systems with different English accents (British and Scottish).
 
-This is a brief guide to run the codes developed for addressing the problem of acoustic modelling of multi-speaker DNN based TTS systems. The overall project consists on a novel multi-speaker DNN architecture for the acoustic realisation of TTS systems trained with a multiple speaker speaker corpora of 10 English Native speakers. Moreover, it includes an alternative approach to train this DNN architecture, which is based on averaging the learning of each speaker during the training stage. 
+This is a brief guide to run the codes developed for addressing the problem of acoustic modelling of multi-speaker DNN based TTS systems. The overall project consists on a novel multi-speaker DNN architecture for the acoustic realisation of TTS systems trained with a multiple speaker corpora of 10 English Native speakers. Moreover, it includes an alternative approach to train this DNN architecture, which is based on averaging the learning of each speaker during the training stage. 
 
 An extensive discussion of the work developed within this project  is included in the “dissertation.pdf” file.
 
